@@ -1,0 +1,7 @@
+# This is the main.
+
+int main (){
+  do nothing();
+  return 0;
+  }
+  
