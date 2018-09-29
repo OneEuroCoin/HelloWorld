@@ -1,0 +1,8 @@
+# This is the main.
+
+int main (){
+  do nothing();
+  return 0;
+  }
+  
+# This is the end.
